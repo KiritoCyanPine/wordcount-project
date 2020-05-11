@@ -1,0 +1,12 @@
+<h2>this is workin</h2>
+<br / ><br / ><br / >
+<a href="{% url 'home' %}"> count once more</a>
+<br />
+{{sentence}}
+<br />
+{% for word,times in words %}
+{{word}}<br />
+{{times}}
+<br />
+<br />
+{% endfor %}
