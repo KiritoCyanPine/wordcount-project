@@ -1,6 +1,6 @@
-asgiref==3.2.0
-Django==*
-psycopg2-binary==*
-requests==*
-sqlparse==*
-urllib3==*
+asgiref
+Django
+psycopg2-binary
+requests
+sqlparse
+urllib3
